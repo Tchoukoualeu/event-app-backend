@@ -1,0 +1,54 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #002D46 !important;
+  color: #fff !important;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bold;
+  
+}
+
+.bold {
+  font-weight: bold;
+}
+
+p {
+  max-width: 900px;
+}
+
+.mytext{
+  font-align: center;
+  width: 340px;
+  margin-right: auto;
+  margin-left: auto;
+  border: solid 1px #ccc;
+  padding: 20px 10px;
+  border-radius: 5px;
+}
+
+code {
+  font-family: monospace;
+  font-size: 1.2em;
+/*   background-color: #FFFEC4; */
+  padding: 2px;
+}
+h1{
+  text-align: center;
+  margin-top: 20px;
+}
+.myform{
+  display: flex;
+  flex-direction: column;
+  max-width: 340px;
+}
+p{
+  font-align: center;
+}
+
